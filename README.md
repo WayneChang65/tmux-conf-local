@@ -11,6 +11,12 @@ This is my personal `tmux` configuration, customized from the excellent [Oh my t
   - Visual bar graph (e.g., ` ▂▃▄▅▆▇█`)
 - **Plugins**: Includes `tmux-plugins/tmux-cpu`.
 
+## Screenshot
+<img width="1512" height="37" alt="截圖 2025-12-06 18 24 08" src="https://github.com/user-attachments/assets/848ca21b-c4fc-4e02-8770-08ad265dbd8b" />
+<img width="1512" height="41" alt="截圖 2025-12-06 18 23 51" src="https://github.com/user-attachments/assets/54deb058-ab58-446b-a613-e77aa97973e6" />
+<img width="1512" height="39" alt="截圖 2025-12-06 18 23 42" src="https://github.com/user-attachments/assets/54bce981-7c79-4b5e-a6e0-b6d3627a3d4f" />
+
+
 ## Installation
 
 1.  Clone this repository to your tmux configuration directory:
