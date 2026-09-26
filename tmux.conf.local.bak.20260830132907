@@ -547,9 +547,3 @@ set -g extended-keys-format csi-u
 # "$@"
 # /!\ do not remove the previous line
 # #     do not write below this line
-
-# -- scrollback fixes (added by assistant) ----------------------------
-# mouse on: wheel scrolls tmux copy-mode history instead of the terminal native scrollback
-# history-limit: raise from default 2000
-set -g mouse on
-set -g history-limit 50000
